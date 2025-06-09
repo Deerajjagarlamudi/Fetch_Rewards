@@ -1,4 +1,5 @@
 This is a native Android app built using Jetpack Compose and Kotlin, developed as a coding exercise for the Fetch Rewards hiring process. The app fetches a list of items from a remote API and displays them efficiently using Paging 3, grouped and sorted by listId and name.
+
 This project is built using the latest Android tools and modern libraries to ensure smooth performance and clean architecture:
 	•	Kotlin – The entire app is written in Kotlin for safer and more concise code.
 	•	Jetpack Compose – Used to build a modern, responsive UI using the latest Android UI toolkit.
